@@ -1,0 +1,27 @@
+date,day,region,salesperson,product,category,units_sold,unit_price,total_sales
+2024-01-25,Thu,West,Michael Brown,Smartphone,Electronics,13,500,6500
+2024-01-15,Mon,East,Michael Brown,Monitor,Electronics,14,250,3500
+2024-01-26,Fri,West,John Doe,Office Chair,Furniture,1,100,100
+2024-02-06,Tue,East,Jane Smith,Desk,Furniture,3,200,600
+2024-02-07,Wed,West,John Doe,Printer,Electronics,9,150,1350
+2024-01-30,Tue,East,Jane Smith,Laptop,Electronics,10,700,7000
+2024-01-20,Sat,North,Emily Davis,Laptop,Electronics,11,700,7700
+2024-01-05,Fri,South,Jane Smith,Smartphone,Electronics,1,500,500
+2024-02-27,Tue,South,John Doe,Desk,Furniture,10,200,2000
+2024-01-06,Sat,West,Emily Davis,Printer,Electronics,6,150,900
+2024-02-13,Tue,North,Emily Davis,Bookshelf,Furniture,4,120,480
+2024-01-24,Wed,West,Michael Brown,Keyboard,Electronics,14,50,700
+2024-03-01,Fri,East,Michael Brown,Smartphone,Electronics,6,500,3000
+2024-01-16,Tue,West,Chris Taylor,Bookshelf,Furniture,12,120,1440
+2024-02-05,Mon,South,Jane Smith,Keyboard,Electronics,9,50,450
+2024-03-01,Fri,North,John Doe,Laptop,Electronics,5,700,3500
+2024-02-19,Mon,South,Jane Smith,Smartphone,Electronics,2,500,1000
+2024-01-02,Tue,West,Michael Brown,Tablet,Electronics,9,300,2700
+2024-01-23,Tue,East,Michael Brown,Laptop,Electronics,15,700,10500
+2024-01-01,Mon,East,John Doe,Office Chair,Furniture,10,100,1000
+2024-02-04,Sun,North,John Doe,Laptop,Electronics,9,700,6300
+2024-01-22,Mon,North,Michael Brown,Office Chair,Furniture,3,100,300
+2024-01-18,Thu,South,John Doe,Bookshelf,Furniture,12,120,1440
+2024-02-20,Tue,South,Emily Davis,Printer,Electronics,1,150,150
+2024-02-23,Fri,South,Jane Smith,Office Chair,Furniture,6,100,600
+2024-02-08,Thu,South,John Doe,Headphones,Electronics,12,80,960

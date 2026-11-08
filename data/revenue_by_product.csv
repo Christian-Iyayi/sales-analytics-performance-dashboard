@@ -1,0 +1,11 @@
+product,category,unit_price,units_sold,revenue,revenue_share_pct
+Laptop,Electronics,700,66,46200,41.03
+Smartphone,Electronics,500,43,21500,19.09
+Desk,Furniture,200,55,11000,9.77
+Monitor,Electronics,250,30,7500,6.66
+Tablet,Electronics,300,24,7200,6.39
+Headphones,Electronics,80,68,5440,4.83
+Bookshelf,Furniture,120,43,5160,4.58
+Office Chair,Furniture,100,43,4300,3.82
+Printer,Electronics,150,19,2850,2.53
+Keyboard,Electronics,50,29,1450,1.29
